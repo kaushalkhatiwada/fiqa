@@ -13,4 +13,4 @@ ungradable_reasons = {
 TARGET_SIZE = 224
 
 # Model
-MODEL_PATH = 'model/mobilnetv3_fundus.pth'
+MODEL_PATH = 'model/mobilenetv3_fundus.pth'
